@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Dinis Cruz](mailto://dinis.cruz@owasp.org)
+* [Dinis Cruz](mailto:dinis.cruz@owasp.org)
